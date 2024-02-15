@@ -1,11 +1,11 @@
 <h1>freeCodeCamp | Responsive Web Design Certification</h1>
 
-<p>This repository contains my project completed as part of the Responsive Web Design Certification from <a href="https://github.com/freeCodeCamp">freeCodeCamp</a>.</p>
+<p>This repository contains my project completed as part of the <a href="https://www.freecodecamp.org/certification/sukis/responsive-web-design">Responsive Web Design Certification</a> from <a href="https://github.com/freeCodeCamp">freeCodeCamp</a>.</p>
 
 <h2>Technical Page Project</h2>
 
 <h3>Description:</h3>
-<p>The Technical Page project serves as a comprehensive documentation of introductory information about JavaScript and Java. It features a clean markup structure and a fixed sidebar for easy navigation.</p>
+<p>The Technical Page Project serves as a comprehensive documentation of introductory information about JavaScript and Java. It features a clean markup structure and a fixed sidebar for easy navigation.</p>
 
 <h3>Intructions:</h3>
 <p>This project was completed following specific instructions provided by freeCodeCamp, which included incorporating certain pieces of code.</p>
